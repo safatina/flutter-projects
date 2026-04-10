@@ -1,16 +1,16 @@
-# 📚 Book App
+# Book App
 Aplikasi katalog buku berbasis Flutter untuk menampilkan daftar buku dan detailnya.
 
-## ✨ Fitur
+# Fitur
 - List buku
 - Detail buku (rating, jumlah pages, language, descriprion)
 - filter berdasarkan kategori 
 
-## 🛠️ Teknologi
+# Teknologi
 - Flutter
 - Dart
 
-## 🚀 Cara Menjalankan
+# Cara Menjalankan
 ```bash
 flutter pub get
 flutter run
