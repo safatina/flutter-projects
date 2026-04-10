@@ -12,5 +12,6 @@ Aplikasi ini merupakan tampilan (UI) dari WhatsApp yang dibuat menggunakan Flutt
 - Dart
 
 ## Cara Menjalankan
+```bash
 flutter pub get
 flutter run
